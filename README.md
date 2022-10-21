@@ -1,6 +1,6 @@
 # Multiplying-two-matrix
 
-## AIM:
+## Aim:
 To write a program to perform Multiplying-two-matrix using python programming.
 
 ## ALGORITHM:
@@ -18,6 +18,9 @@ Print the product of two arrays.
 
 ## PROGRAM: 
 ```python
+#Program to perform Multiplying two matrix using python programming.
+#Developed by: Siva Chandran R
+#RegisterNumber: 22005531
 import numpy as np
 n=int(input())
 l1,l2=[],[]
